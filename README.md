@@ -1,0 +1,1 @@
+here are my 2 projects which i have made using excel and python. Look into these reports and code of mine and the analysis i have done on the datasets. Kindly provide feedback so that i can improve and keep learning.
